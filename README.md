@@ -12,6 +12,11 @@ Mobile flashcard app built with React Native for iOS and Andriod
 ## How to run locally
 ### Ensure IOS & Android Simulators have been set-up locally
 
+Tested on 
+- Samsung Galaxy S3, Android API: 9.0-API 28 version
+- iphone 11 Pro Max - 13.3 version
+- Please ensure to use the same versions for correctness
+
 - install project with `npm install`
 - Start the project with `npm start`
 - To start in IOS press i
