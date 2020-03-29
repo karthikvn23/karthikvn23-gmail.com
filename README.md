@@ -10,7 +10,7 @@ Mobile flashcard app built with React Native for iOS and Andriod
 - User can delete a deck
 
 ## How to run locally
-# Ensure IOS & Android Simulators have been set-up locally
+### Ensure IOS & Android Simulators have been set-up locally
 
 - install project with `npm install`
 - To start in IOS press i
