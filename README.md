@@ -13,5 +13,6 @@ Mobile flashcard app built with React Native for iOS and Andriod
 ### Ensure IOS & Android Simulators have been set-up locally
 
 - install project with `npm install`
+- Start the project with `npm start`
 - To start in IOS press i
 - To start in Android press a
