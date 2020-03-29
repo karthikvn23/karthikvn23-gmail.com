@@ -1,4 +1,4 @@
-# react-native-mobile-flashcards
+## Mobile Flascards App
 
 Mobile flashcard app built with React Native for iOS and Andriod
 
